@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunlun-wu
 - 👀 I'm interested in using machine learning for materials science research
-- 🌱 I’m currently learning traditional ML, but I would very much like to learn more about DL
+- 🌱 I'm trying to learn more about DL
 - ✉️ Email: kw3037@columbia.edu
 - 📰 Website: [kunlun-wu.github.io](https://kunlun-wu.github.io/)
 
